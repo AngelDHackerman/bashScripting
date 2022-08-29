@@ -1,0 +1,1 @@
+Aug 24 17:10:11 fedora sudo[9765]:    angel : TTY=pts/0 ; PWD=/home/angel/shellScripting/realLifeScripts ; USER=root ; COMMAND=./logTail.sh -t invalid testing the script
